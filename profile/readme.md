@@ -1,4 +1,4 @@
-<p align="center"><a href="https://andali.ro" target="_blank"><img src="https://www.github.com/andalisolutions/.github/blob/main/assets/img/andalisolutions.png" width="1280"></a></p>
+<p align="center"><a href="https://andali.ro" target="_blank"><img src="https://github.com/andalisolutions/.github/blob/main/assets/img/andalisolutions.png?raw=true" width="1280"></a></p>
 
 ## About Andali Solutions
 
