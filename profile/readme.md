@@ -7,4 +7,5 @@
 We have built a small collection of useful open sources:
 
 - [Laravel ANAF](https://github.com/andalisolutions/laravel-anaf)
+- [Laravel BNR](https://github.com/andalisolutions/laravel-bnr)
 - ...and more coming
