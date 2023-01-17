@@ -2,10 +2,10 @@
 
 ## About Andali Solutions
 
-[Andali Solutions](https://andali.ro) crafts web applications & open source packages in the Laravel ecosystem.
+[We](https://andali.ro) are your web solutions architects. We make successful products that turn great ideas into user-friendly solutions for consumers and businesses.
 
 We have built a small collection of useful open sources:
 
-- [Laravel ANAF](https://github.com/andalisolutions/laravel-anaf)
+- [ANAF PHP](https://github.com/andalisolutions/anaf-php)
 - [Laravel BNR](https://github.com/andalisolutions/laravel-bnr)
 - ...and more coming
