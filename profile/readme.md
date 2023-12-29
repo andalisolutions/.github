@@ -7,5 +7,5 @@
 We have built a small collection of useful open sources:
 
 - [ANAF PHP](https://github.com/andalisolutions/anaf-php)
-- [Laravel BNR](https://github.com/andalisolutions/laravel-bnr)
+- [OAuth 2.0 ANAF](https://github.com/andalisolutions/oauth2-anaf)
 - ...and more coming
